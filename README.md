@@ -1,5 +1,5 @@
 # lovelocal_assignment
 
-Name: Supritha
-Mail id: suprithak37@gmail.com
+Name: Supritha \n
+Mail id: suprithak37@gmail.com \n
 College: St.Joseph Engineering College Mangalore
